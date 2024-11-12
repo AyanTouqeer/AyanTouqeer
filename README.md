@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyanTouqeer
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Android Development.
+- 👀 I’m interested in Game Development.
+- 🌱 I’m currently learning Game Development.
 - 💞️ I’m looking to collaborate on game projects.
 - 📫 How to reach me :
 - Mail at ayan.ak862@gmail.com
