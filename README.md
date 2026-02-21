@@ -34,7 +34,8 @@ I am a Computer Science student at the **Virtual University of Pakistan** and an
 ### 📫 Let's Connect!
 - 📧 **Mail:** ayan.ak862@gmail.com
 - 📸 **DM:** [Instagram @mayant.official](https://www.instagram.com/mayant.official/)
-- 💼 **LinkedIn:** [Your Link Here]
+- 💼 **LinkedIn:** www.linkedin.com/in/m-ayan-touqeer
+
 
 ### ⚡ Fun Fact
 I successfully secured a 10,000 PKR donation for the **Akhuwat Foundation** in a single drive—I’m passionate about using my skills for social good!
