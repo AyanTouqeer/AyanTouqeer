@@ -1,41 +1,34 @@
-# 👋 Hi, I’m Muhammad Ayan (@AyanTouqeer)
+👋 Hi, I’m Muhammad Ayan (@AyanTouqeer)
 
-### 🚀 Software Engineer | AI Developer | Youth Leader
+🤖 Machine Learning Engineer | Agentic AI & LLM Ops Specialist
+Founder & Technical Lead @ infinityARC Studios
 
-I am a Computer Science student at the **Virtual University of Pakistan** and an **Amal Academy Ambassador (Batch 366)**. I specialize in building AI-driven solutions that bridge the gap between complex data and human wellness.
+I am a 3rd Year Computer Science student architecting autonomous systems that bridge the gap between complex data and human-centric solutions. My focus is on Agentic Workflows, LLM Infrastructure, and scalable cloud deployments.
 
----
+🚀 Hackathons & Competitive Engineering
+Gen-AI APAC Hackathon: Lead for Team infinityARC—engineered end-to-end agentic solutions focused on enterprise-level data orchestration and tool-use.
+Google Cloud Gen AI Exchange: Developed a specialized RAG-based system for the "Generative AI for Youth Mental Wellness" track, optimizing for low-latency emotional support.
+Gen AI Exchange Hackathon: Built and launched Tastemate.AI, integrating personalized mentorship logic with real-time data streams.
 
-### 🛠️ Featured AI Projects
-- 🧠 **TheMindMatch:** An AI-driven mental health platform leveraging **Snowflake**, **Cortex**, and **Streamlit** to provide personalized wellness support.
-- 🥗 **Tastemate.AI:** Developing a custom AI chatbot that generates health and career-aligned insights based on user data.
-- 💻 **Gen AI Hackathon:** Participant in the **Google Cloud Gen AI Exchange**, focusing on "Generative AI for Youth Mental Wellness."
+🛠️ Technical Deep Dive
+Agentic Infrastructure (MCP): Specialized in containerizing and deploying Model Context Protocol (MCP) servers via Docker on Google Cloud Run, enabling LLMs to interact with secure local and remote environments.
+Production RAG Pipelines: Architected TheMindMatch, utilizing Snowflake Cortex for high-performance inference and Streamlit for the orchestration of retrieval-augmented generation.
+Digital Literacy & Advocacy: Integrating Generative AI into Climate Advocacy frameworks and digital literacy initiatives to make technical information accessible to non-technical communities.
 
-### 🏆 Leadership & Social Impact
-- **Team Leader** @ **infinityARC Studios** (Lead: Team infinityARC).
-- **Vice President of ICT** for the VU Literary Club.
-- **Project Sairab:** Leading a high-impact fundraising drive to install water hand pumps in rural Pakistan.
-- **Global Change Ambassador:** Selected Delegate for the **Middle East Youth Summit 2026** (Makkah).
+💻 Core Tech Stack
+Primary Language: Python (Advanced AI/ML, AsyncIO, Backend), SQL.
+AI & Cloud: Google Cloud Platform (Gen AI Academy), Snowflake Cortex, Streamlit, LangChain, CrewAI.
+Infrastructure: Docker, Google Cloud Run, MCP, Vector Databases, Git/GitHub.
+Methodology: Vibe Coding—leveraging AI-augmented development to rapidly iterate from prototype to production-ready agentic tools.
 
-### 🎬 Content & Digital Strategy
-- **addictiveShorts:** Managing and scaling digital content on Facebook.
-- **infiniteWhileLoop:** Technical storytelling and project showcases on YouTube.
-- **theShreddedCroc:** Digital creator and character designer.
+🏆 Engineering Leadership
+Founder @ infinityARC Studios: Directing a technical team in the development of AI prototypes, specialized MCP servers, and digital storytelling platforms like infiniteWhileLoop.
+Technical Mentor: Advocating for the responsible use of Generative AI in student communities, focusing on the transition from "Prompting" to "Agentic Engineering."
 
----
+📫 Systems Check
+Email: ayan.ak862@gmail.com
+LinkedIn: m-ayan-touqeer
+GitHub: AyanTouqeer
 
-### 💻 Tech Stack
-- **Languages:** Python, C++, SQL, Assembly.
-- **Platforms:** Snowflake, Streamlit, Google Cloud (Gen AI).
-- **Focus:** Generative AI, Data-Driven Applications, Digital Literacy, Climate Advocacy.
-
----
-
-### 📫 Let's Connect!
-- 📧 **Mail:** ayan.ak862@gmail.com
-- 📸 **DM:** [Instagram @mayant.official](https://www.instagram.com/mayant.official/)
-- 💼 **LinkedIn:** www.linkedin.com/in/m-ayan-touqeer
-
-
-### ⚡ Fun Fact
-I successfully secured a 10,000 PKR donation for the **Akhuwat Foundation** in a single drive—I’m passionate about using my skills for social good!
+⚡ Engineering Fact
+I approach Python optimization like bodybuilding: it’s about stripping away the bloat, focusing on the core logic, and ensuring the final architecture is as lean and performant as possible.
